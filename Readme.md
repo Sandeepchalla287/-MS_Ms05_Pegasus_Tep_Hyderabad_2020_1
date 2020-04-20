@@ -1,4 +1,8 @@
 # Milestone-5: Chrome Extension: 21st century bookmarker
+# TEAM
+- Kadire Prashanth Reddy
+- Mohd Mudassir Shareef
+- Sandeep Challa
 
 ## Learning Competencies
 
